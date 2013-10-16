@@ -4,3 +4,6 @@
 /grails-*.zip
 /plugin.xml
 web-app
+.idea/*
+/grails-*.zip.sha1
+*.iml
